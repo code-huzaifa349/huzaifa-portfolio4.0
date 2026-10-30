@@ -3,7 +3,7 @@
 **A cinematic, terminal-driven portfolio for a web developer and ethical hacker in training.**
 Built with plain HTML, CSS and JavaScript. No framework, no build step.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-visit_site-FF4A2E?style=flat-square)](https://code-huzaifa349.github.io/huzaifa-portfolio3.0/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-visit_site-FF4A2E?style=flat-square)](https://code-huzaifa349.github.io/huzaifa-portfolio4.0/)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&labelColor=333)
@@ -14,7 +14,7 @@ Built with plain HTML, CSS and JavaScript. No framework, no build step.
 <!-- Add a preview image: save a screenshot as docs/preview.png, then uncomment the next line. -->
 <!-- ![Portfolio preview](docs/preview.png) -->
 
-**Live site:** https://code-huzaifa349.github.io/huzaifa-portfolio3.0/
+**Live site:** https://code-huzaifa349.github.io/huzaifa-portfolio4.0/
 
 ---
 
@@ -80,7 +80,7 @@ three.js, GSAP and Lenis are loaded from public CDNs, so there is nothing to ins
 ## Project structure
 
 ```text
-huzaifa-portfolio3.0/
+huzaifa-portfolio4.0/
 ├── index.html          # All page content and markup
 ├── css/
 │   └── style.css       # Design tokens, layout and components
@@ -102,8 +102,8 @@ There is no build step. You only need a browser and an internet connection (for 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/code-huzaifa349/huzaifa-portfolio3.0.git
-cd huzaifa-portfolio3.0
+git clone https://github.com/code-huzaifa349/huzaifa-portfolio4.0.git
+cd huzaifa-portfolio4.0
 
 # 2a. Open index.html directly in your browser
 # or
